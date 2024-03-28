@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * array_to_avl - Building an AVL tree from an array.
+ * array_to_avl - Building the AVL tree from an array.
  * @array: pointer to the first element of the array to be converted.
  * @size: number of elements in @array.
  *

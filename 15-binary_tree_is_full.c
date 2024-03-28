@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * is_full_recursive - Checking if a binary tree is full recursively.
+ * is_full_recursive - Checking if the binary tree is full recursively.
  * @tree: pointer to the root node of the tree to check.
  *
  * Return: if tree is not full, 0.
